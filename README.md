@@ -1,1 +1,1 @@
-"# School managment" 
+# School managment" 
